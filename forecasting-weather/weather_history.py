@@ -3,7 +3,7 @@ import datetime
 import csv
 
 # Digvijay API key
-api_key = '94be0d70f52a4bfe92a61219242606'
+api_key = ''
 
 # Base URL
 base_url = 'http://api.weatherapi.com/v1'
